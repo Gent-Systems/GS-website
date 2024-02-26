@@ -1,0 +1,4 @@
+baseURL = 'https://gent-systems.com/'
+languageCode = 'en-us'
+title = 'Gent-Systems'
+theme = 'ananke'
